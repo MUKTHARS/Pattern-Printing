@@ -1,0 +1,265 @@
+// Online C compiler to run C program online
+#include <stdio.h>
+
+int main() {
+int i,j,n;
+char name[20];
+printf("Enter The Number 5 : \t");
+scanf("%d",&n);
+printf("Enter Your Name:\t");
+scanf("%s",&name);
+
+for(i=0;i<=n;i++)
+{
+    for(j=0;j<n-i;j++)
+    {
+        printf("💙  ");
+    }
+    for(j=0;j<n;j++)
+    {
+        printf("💗  ");
+    }
+    for(j=0;j<n;j++)
+    {
+        printf("💗  ");
+    }
+    for(j=0;j<i;j++)
+    {
+        printf("💙  ");
+    }
+    for(j=0;j<i;j++)
+    {
+        printf("💙  ");
+    }
+    for(j=0;j<n;j++)
+    {
+        printf("💗  ");
+    }
+    for(j=0;j<n;j++)
+    {
+        printf("💗  ");
+    }
+    for(j=0;j<n-i;j++)
+    {
+        printf("💙  ");
+    }
+   
+    printf("\n");
+   
+    }
+
+
+
+for(i=0;i<=n;i++)
+{
+    for(j=0;j<i;j++)
+    {
+        printf("💙  ");
+    }
+    for(j=0;j<n;j++)
+    {
+        printf("💗  ");
+    }
+    for(j=0;j<n;j++)
+    {
+        printf("💗  ");
+    }
+    for(j=0;j<n-i;j++)
+    {
+        printf("💙  ");
+    }
+    for(j=0;j<n-i;j++)
+    {
+        printf("💙  ");
+    }
+    for(j=0;j<n;j++)
+    {
+        printf("💗  ");
+    }
+    for(j=0;j<n;j++)
+    {
+        printf("💗  ");
+    }
+    for(j=0;j<i;j++)
+    {
+        printf("💙  ");
+    }
+    printf("\n");
+    printf("\t\t\t\t\t\t\t\t\t\t %s !",name);
+    printf(" ONNUM ");
+    printf("ILLA ");
+    printf("POI ");
+    printf("VELAYA ");
+    printf("PARU \n");
+   
+}
+for(i=0;i<=n;i++)
+{
+    for(j=0;j<i;j++)
+    {
+        printf("💙  ");
+    }
+    for(j=0;j<n;j++)
+    {
+        printf("💗  ");
+    }
+    for(j=0;j<n;j++)
+    {
+        printf("💗  ");
+    }
+    for(j=0;j<n-i;j++)
+    {
+        printf("💙  ");
+    }
+    for(j=0;j<n-i;j++)
+    {
+        printf("💙  ");
+    }
+    for(j=0;j<n;j++)
+    {
+        printf("💗  ");
+    }
+    for(j=0;j<n;j++)
+    {
+        printf("💗  ");
+    }
+    for(j=0;j<i;j++)
+    {
+        printf("💙  ");
+    }
+    printf("\n");
+   
+   
+}
+
+ printf("\t\t\t\t\t\t\t\t\t\t %s !",name);
+    printf(" ONNUM ");
+    printf("ILLA ");
+    printf("POI ");
+    printf("VELAYA ");
+    printf("PARU \n");
+
+for(i=0;i<=n;i++)
+{
+    for(j=0;j<n-i;j++)
+    {
+        printf("💙  ");
+    }
+    for(j=0;j<n;j++)
+    {
+        printf("💗  ");
+    }
+    for(j=0;j<n;j++)
+    {
+        printf("💗  ");
+    }
+    for(j=0;j<i;j++)
+    {
+        printf("💙  ");
+    }
+    for(j=0;j<i;j++)
+    {
+        printf("💙  ");
+    }
+    for(j=0;j<n;j++)
+    {
+        printf("💗  ");
+    }
+    for(j=0;j<n;j++)
+    {
+        printf("💗  ");
+    }
+    for(j=0;j<n-i;j++)
+    {
+        printf("💙  ");
+    }
+   
+    printf("\n");
+   
+    }
+for(i=0;i<=n;i++)
+{
+    for(j=0;j<n-i;j++)
+    {
+        printf("💙  ");
+    }
+    for(j=0;j<n;j++)
+    {
+        printf("💗  ");
+    }
+    for(j=0;j<n;j++)
+    {
+        printf("💗  ");
+    }
+    for(j=0;j<i;j++)
+    {
+        printf("💙  ");
+    }
+    for(j=0;j<i;j++)
+    {
+        printf("💙  ");
+    }
+    for(j=0;j<n;j++)
+    {
+        printf("💗  ");
+    }
+    for(j=0;j<n;j++)
+    {
+        printf("💗  ");
+    }
+    for(j=0;j<n-i;j++)
+    {
+        printf("💙  ");
+    }
+   
+    printf("\n");
+   
+    }
+
+//printf("Welcome %s \n",name);
+
+for(i=0;i<=n;i++)
+{
+    for(j=0;j<i;j++)
+    {
+        printf("💙  ");
+    }
+    for(j=0;j<n;j++)
+    {
+        printf("💗  ");
+    }
+    for(j=0;j<n;j++)
+    {
+        printf("💗  ");
+    }
+    for(j=0;j<n-i;j++)
+    {
+        printf("💙  ");
+    }
+    for(j=0;j<n-i;j++)
+    {
+        printf("💙  ");
+    }
+    for(j=0;j<n;j++)
+    {
+        printf("💗  ");
+    }
+    for(j=0;j<n;j++)
+    {
+        printf("💗  ");
+    }
+    for(j=0;j<i;j++)
+    {
+        printf("💙  ");
+    }
+    printf("\n");
+    printf("\t\t\t\t\t\t\t\t\t\t %s !",name);
+    printf(" ONNUM ");
+    printf("ILLA ");
+    printf("POI ");
+    printf("VELAYA ");
+    printf("PARU \n");
+
+}
+   
+}
