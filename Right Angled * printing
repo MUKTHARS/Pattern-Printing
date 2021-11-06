@@ -1,0 +1,25 @@
+#include <stdio.h>
+
+
+int main()
+{
+   int i,j,k;
+   printf("Enter The Number :\t");
+   scanf("%d",&k);
+   i=0;
+   while(i<=k)
+   {
+       j=1;
+       while(j<=i)
+       {
+           printf("* ");
+           j++;
+       }
+       printf("\n");
+      i++;
+    }
+
+
+   }
+
+
